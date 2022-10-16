@@ -5,7 +5,7 @@
 <td valign="top"><img src="pappa-pez.png"></td>
 <td valign="top">
         
-Hi! I am Peter, a dad (father of five), husband, developer contractor, and open source contributor, ceator of [Calva](https://calva.io/). My super powers are curiousity, creativity, and communication. To succeed I meet challenges wielding kindness and the [Clojure](https://clojure.org) REPL. Things that give me energy are coding, collaboration, and speaking with users.
+Hi! I am Peter, a dad (father of five), husband, developer contractor, open source contributor, and ceator of [Calva](https://calva.io/). My super powers are curiousity, creativity, and communication. To succeed I meet challenges wielding kindness, the [Clojure](https://clojure.org) REPL, and 40 years of developer experience. Things that give me energy are coding, collaboration, and speaking with users.
 
 </td>        
 </tr>
