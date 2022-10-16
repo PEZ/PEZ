@@ -4,7 +4,7 @@ Hi! I am Peter, a dad (father of five), husband, developer contractor, and open 
 
 ![PEZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PEZ&count_private=true&show_icons=true) ![PEZ's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=PEZ&hide=html,dart,javascript)
 
-Clojure quite literally changed my life, and I want to pay it forwards by contributing to more developers finding out about its benefits. I am extra proud of the [Get Started With Clojure REPL](https://calva.io/get-started-with-clojure/), an interactive, editor based, introduction to this practical and wonderful programming language.
+Clojure quite literally changed my life, and I want to pay it forward by contributing to more developers finding out about its benefits. I am extra proud of the [Get Started With Clojure REPL](https://calva.io/get-started-with-clojure/), an interactive, editor based, introduction to this practical and wonderful programming language.
 
 ## Employment
 
