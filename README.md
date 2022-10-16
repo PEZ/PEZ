@@ -25,3 +25,5 @@ Hi! I am Peter, a dad (father of five), husband, developer contractor, open sour
 * Twitter: [@pappapez](https://twitter.com/pappapez)
 * Blog: [A few words from PEZ](https://blog.agical.se/en/authors/peter-stromberg) ([rss](https://blog.agical.se/en/authors/peter-stromberg/index.xml))
 * LinkedIn: [@cospaia](https://www.linkedin.com/in/cospaia/)
+
+Please use LinkedIn for contacting me, and for that list of previous experiences.
