@@ -1,6 +1,6 @@
 # Peter Strömberg
 
-Hi! I am Peter, a dad (father of five), husband, developer contractor, and open source contributor. Ceator of [Calva](https://calva.io/). I regaard it curiosity as my super power along with creativity and communication. To succeed I meet challenges wielding kindness, the [Clojure](https://clojure.org) REPL, and 40 years of developer experience. I gain energy from coding and collaborating with others, fellow developers and users alike.
+Hi! I am Peter, a dad (father of five), husband, developer contractor, and open source contributor. Ceator of [Calva](https://calva.io/). I regard curiosity as my super power along with creativity and communication. To succeed I meet challenges wielding kindness, the [Clojure](https://clojure.org) REPL, and 40 years of developer experience. I gain energy from coding and collaborating with others, fellow developers and users alike.
 
 ![PEZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PEZ&count_private=true&show_icons=true) ![PEZ's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=PEZ&hide=html,dart,javascript)
 
