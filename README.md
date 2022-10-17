@@ -4,7 +4,7 @@ Hi! I am Peter; father of five, husband, creator of [Calva](https://calva.io/), 
 
 ![PEZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PEZ&count_private=true&show_icons=true) ![PEZ's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=PEZ&hide=html,dart,javascript)
 
-Clojure quite literally changed my life, and I want to pay it forward by contributing to more developers finding out about its benefits. I am extra proud of the [Get Started With Clojure REPL](https://calva.io/get-started-with-clojure/), an interactive, editor based, introduction to this practical and wonderful programming language.
+Clojure quite literally changed my life. I want to pay it forward. Many of my initiatives are focused on making the benefits of Clojure easier for developers to discover and learn. I am extra proud of the [Get Started With Clojure REPL](https://calva.io/get-started-with-clojure/), an interactive, editor based, introduction to this practical and wonderful programming language.
 
 ## Follow me (it makes me happy!)
 
