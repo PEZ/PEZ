@@ -1,6 +1,6 @@
 # Peter Strömberg
 
-Hi! I am Peter; father of five, husband, creator of [Calva](https://calva.io/), and developer contractor. I regard curiosity as my super power along with creativity and communication. To succeed I meet challenges wielding kindness, the [Clojure](https://clojure.org) REPL, and 40 years of developer experience. I gain energy from coding and collaborating with others, fellow developers and users alike.
+Hi! I am Peter; father of five, husband, creator of [Calva](https://calva.io/), co-creator of [Joyride](https://github.com/BetterThanTomorrow/joyride), and developer contractor. I regard curiosity as my super power along with creativity and communication. To succeed I meet challenges wielding kindness, the [Clojure](https://clojure.org) REPL, and 40 years of developer experience. I gain energy from coding and collaborating with others, fellow developers and users alike.
 
 ![PEZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PEZ&count_private=true&show_icons=true) ![PEZ's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=PEZ&hide=html,dart,javascript)
 
@@ -23,8 +23,14 @@ Clojure quite literally changed my life, and I want to pay it forward by contrib
 – [Andrej Česen](https://github.com/andrejcesen), Senior Mobile Engineer at Pitch
 
 ## Follow me
+
+* [Clojurians Slack](https://clojurians.net/): `#calva`, and `#joyride` channels.
 * Twitter: [@pappapez](https://twitter.com/pappapez)
 * Blog: [A few words from PEZ](https://blog.agical.se/en/authors/peter-stromberg) ([rss](https://blog.agical.se/en/authors/peter-stromberg/index.xml))
 * LinkedIn: [@cospaia](https://www.linkedin.com/in/cospaia/)
 
-Please use LinkedIn for contacting me, and for that list of previous experiences.
+## Contact me
+
+If you are curious about Clojure or Calva or Joyride, or any such thing. The [Clojurians Slack](https://clojurians.net/) is a great place to chat me up. LinkedIn and Twitter works too.
+
+For discussiong business things, please use LinkedIn.
