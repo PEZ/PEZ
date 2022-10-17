@@ -6,6 +6,14 @@ Hi! I am Peter; father of five, husband, creator of [Calva](https://calva.io/), 
 
 Clojure quite literally changed my life, and I want to pay it forward by contributing to more developers finding out about its benefits. I am extra proud of the [Get Started With Clojure REPL](https://calva.io/get-started-with-clojure/), an interactive, editor based, introduction to this practical and wonderful programming language.
 
+## Follow me (it makes me happy!)
+
+* YouTube: [CalvaTV](https://www.youtube.com/c/CalvaTV)
+* [Clojurians Slack](https://clojurians.net/): `#calva`, and `#joyride` channels.
+* Twitter: [@pappapez](https://twitter.com/pappapez)
+* Blog: [A few words from PEZ](https://blog.agical.se/en/authors/peter-stromberg) ([rss](https://blog.agical.se/en/authors/peter-stromberg/index.xml))
+* LinkedIn: [@cospaia](https://www.linkedin.com/in/cospaia/)
+
 ## Employment
 
 [Agical](https://agical.se/) pays me a fulltime, competetive, salary & benefits to spend:
@@ -22,15 +30,10 @@ Clojure quite literally changed my life, and I want to pay it forward by contrib
 
 – [Andrej Česen](https://github.com/andrejcesen), Senior Mobile Engineer at Pitch
 
-## Follow me
-
-* [Clojurians Slack](https://clojurians.net/): `#calva`, and `#joyride` channels.
-* Twitter: [@pappapez](https://twitter.com/pappapez)
-* Blog: [A few words from PEZ](https://blog.agical.se/en/authors/peter-stromberg) ([rss](https://blog.agical.se/en/authors/peter-stromberg/index.xml))
-* LinkedIn: [@cospaia](https://www.linkedin.com/in/cospaia/)
-
 ## Contact me
 
-If you are curious about Clojure or Calva or Joyride, or any such thing. The [Clojurians Slack](https://clojurians.net/) is a great place to chat me up. LinkedIn and Twitter works too.
+If you want my input on Clojure, Calva, Joyride, or any such thing. The [Clojurians Slack](https://clojurians.net/) is a great place to chat me up. As are [Twitter](https://twitter.com/pappapez) and [LinkedIn](https://www.linkedin.com/in/cospaia/).
 
 For discussiong business things, please use LinkedIn.
+
+Public speaking scares me a bit, and I seldom seek it out. I need some help getting out of my comfort zone there, though. Please don't hesitate to check with me, if you think I would be a good fit for your meetup or similar.
