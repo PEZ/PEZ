@@ -26,7 +26,7 @@ Clojure quite literally changed my life. I want to pay it forward. Many of my in
 
 > Peter has done a tremendous job channeling the Clojure community interest in VS Code using Calva and Joyride into actual movement towards better tools, whether that's original open source development, welcoming new users and open source contributors, or just his infectious enthusiasm for Clojure and Calva. It is a joy to have him in the Clojure community and I think he's doing wonderful and important work as the open source steward for Calva.
 
-- [Alex Miller](https://github.com/puredanger), Principal Software Engineer, Clojure Team
+– [Alex Miller](https://github.com/puredanger), Principal Software Engineer, Clojure Team
 
 ### As a Clojure contractor/consultant
 
