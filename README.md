@@ -22,6 +22,12 @@ Clojure quite literally changed my life. I want to pay it forward. Many of my in
 
 ## Testimonials
 
+### As an Open Source contributor
+
+> Peter has done a tremendous job channeling the Clojure community interest in VS Code using Calva and Joyride into actual movement towards better tools, whether that's original open source development, welcoming new users and open source contributors, or just his infectious enthusiasm for Clojure and Calva. It is a joy to have him in the Clojure community and I think he's doing wonderful and important work as the open source steward for Calva.
+
+- [Alex Miller](https://github.com/puredanger), Principal Software Engineer, Clojure Team
+
 ### As a Clojure contractor/consultant
 
 > Peter built a feature flag system for us at Pitch - a crucial project in our journey towards continuous delivery. While managing many stakeholders and delivering technical excellence, Peter inspired and positively impacted the people around him. His passion for teaching and Clojure went beyond the assigned tasks, he regularly provided feedback on important projects, shared his knowledge on different Slack channels, gave talks and run workshops for us. We couldn’t have asked for more and Peter comes as a highly recommended professional!
@@ -31,10 +37,6 @@ Clojure quite literally changed my life. I want to pay it forward. Many of my in
 > I had known Peter for his instrumental role in making Clojure accessible to more people and recently I had a chance of working with him for a short while. It turns out Peter is not only a brilliant and thoughtful engineer, but also a wonderful person with a big heart. His aspiring aura lifts up the spirits of everyone around him and permeates through his work. Collaborating with Peter was one of my most memorable experiences.
 
 – [Andrej Česen](https://github.com/andrejcesen), Senior Mobile Engineer at Pitch
-
-### As an Open Source contributor
-
-Please consider! 🙏 I've just added a slot on [my LinkedIn profile](https://www.linkedin.com/in/cospaia/) for this, even. 😀
 
 ## Contact me
 
