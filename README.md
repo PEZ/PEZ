@@ -2,7 +2,7 @@
 
 Hi! I am Peter; father of five, husband, creator of [Calva](https://calva.io/), co-creator of [Joyride](https://github.com/BetterThanTomorrow/joyride), and developer contractor. I regard curiosity as my super power along with creativity and communication. To succeed I meet challenges wielding kindness, the [Clojure](https://clojure.org) REPL, and 40 years of developer experience. I gain energy from coding and collaborating with others, fellow developers and users alike.
 
-[![committers.top badge](https://user-badge.committers.top/sweden/USERNAME.svg)](https://user-badge.committers.top/sweden/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/sweden/PEZ.svg)](https://user-badge.committers.top/sweden/PEZ)
 
 Clojure quite literally changed my life. I want to pay it forward. Many of my initiatives are focused on making the benefits of Clojure easier for developers to discover and learn. I am extra proud of the [Get Started With Clojure REPL](https://calva.io/get-started-with-clojure/), an interactive, editor based, introduction to this practical and wonderful programming language.
 
